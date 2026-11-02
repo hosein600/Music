@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(purple);
+}
+h1 {
+    color: aliceblue;
+    margin: 0 auto;
+    display: table;
+}
+a {
+ background: blue;
+ padding: 10px;
+ margin: 0 auto;
+ display: table;
+ border-radius: 10px;
+ margin-top: 20px;
+}
+    
