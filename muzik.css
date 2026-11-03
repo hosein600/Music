@@ -10,5 +10,13 @@ audio {
     display: table;
     margin-top: 20px;
 }
+ul {
+    width: 50px;
+    background: linear-gradient(blue,pink);
+    margin: 0 auto;
+    display: table;
+    padding: 40px;
+    border-radius: 30px;
+}
 
 
